@@ -16,3 +16,4 @@ Um validador de CPF simples e funcional, criado com tecnologias web básicas par
 -   **HTML5** - Estrutura do site.
 -   **CSS3** - Estilização e design.
 -   **JavaScript** - Lógica de validação e interatividade.
+<img width="920" height="592" alt="image" src="https://github.com/user-attachments/assets/cdc7d72a-1e03-41c0-b9f9-065657586f48" />
